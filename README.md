@@ -1,4 +1,4 @@
-# Flask Conf 2018 site
+# Flask Conf 2019 site
 
 Static website no setup needed!
 
