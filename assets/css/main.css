@@ -4123,3 +4123,20 @@
 	width: 100%;
 	height: 100%;
 	}
+
+
+.apoio {
+	position: relative;
+	float: left;
+	width: 50%;
+	height: 200px;
+}
+
+.apoio img {
+	position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
