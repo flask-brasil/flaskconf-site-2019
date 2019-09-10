@@ -3649,9 +3649,8 @@
                 }
 
             #sidebar > .inner > .alt {
-                background-color: #eff1f2;
                 border-bottom: 0;
-                margin: 2.33333em 0 3.33333em -1.66667em;
+                margin: 0 0 3.33333em -1.66667em;
                 padding: 1.66667em;
                 width: calc(100% + 3.33333em);
             }
@@ -3715,7 +3714,7 @@
                 }
 
                 #sidebar > .inner > .alt {
-                    margin: 3.33333em 0 1.33333em -1.66667em;
+                    margin: 0 0 1.33333em -1.66667em;
                     padding: 1.66667em;
                     width: calc(100% + 3.33333em);
                 }
